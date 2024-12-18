@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "177873879894",
+    "firebase_url": "https://pamd-3b7db-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "pamd-3b7db",
+    "storage_bucket": "pamd-3b7db.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177873879894:android:1abb62f817dc2667acccf7",
+        "android_client_info": {
+          "package_name": "ap.mobile.challengesatu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnYv2YEHrisfguM0mdLhbHTxw5Og94LcQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177873879894:android:9664688b081f021cacccf7",
+        "android_client_info": {
+          "package_name": "com.example.ponbuk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnYv2YEHrisfguM0mdLhbHTxw5Og94LcQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
